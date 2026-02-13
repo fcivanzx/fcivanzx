@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Ivan</h1>
+<h3 align="center">Desarrollador en formación | Diseño gráfico 🎨 | Sistemas 💻</h3>
 
-<!--
-**fcivanzx/fcivanzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🎓 Estudiante de Desarrollo de Sistemas de Información
+- 🎨 Diseñador de flyers y contenido visual
+- 💻 Aprendiendo programación y desarrollo móvil
+- 📍 Perú
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías que estoy aprendiendo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,html,css,js,photoshop,aftereffects" />
+</p>
+
+---
+
+### 📊 Mis estadísticas en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fcivanzx&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcivanzx&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contacto
+- 📧 Email: tuemail@email.com
+- 📱 Instagram: @tuusuario
+
+---
+
+⭐ Gracias por visitar mi perfil
