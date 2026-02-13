@@ -1,35 +1,55 @@
-<h1 align="center">Hola 👋, soy Ivan</h1>
-<h3 align="center">Desarrollador en formación | Diseño gráfico 🎨 | Sistemas 💻</h3>
+<p align="center">
+  <img src="https://i.imgur.com/REEMPLAZAR_LOGO.png" width="200"/>
+</p>
+
+<h1 align="center"> IF Croma Studio 🎨💻</h1>
+<h3 align="center">Programador UI/UX | Diseñador Digital | Desarrollo Creativo</h3>
 
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Estudiante de Desarrollo de Sistemas de Información
-- 🎨 Diseñador de flyers y contenido visual
-- 💻 Aprendiendo programación y desarrollo móvil
-- 📍 Perú
+Soy desarrollador y diseñador enfocado en crear experiencias visuales modernas.  
+Combino programación + diseño UI/UX para construir proyectos atractivos y funcionales.
+
+✔ Desarrollo web y móvil  
+✔ Diseño gráfico profesional  
+✔ Interfaces modernas  
+✔ Branding y contenido visual  
 
 ---
 
-### 🛠️ Tecnologías que estoy aprendiendo
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,html,css,js,photoshop,aftereffects" />
+### 🛠️ Tecnologías de Programación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,cs,kotlin,bootstrap,mysql" />
 </p>
 
+**Lenguajes:**  
+HTML • CSS • JavaScript • Python • Dart • C# • Kotlin  
+
+**Bases de datos:**  
+MySQL • SQL Server • Workbench  
+
 ---
 
-### 📊 Mis estadísticas en GitHub
+### 🎨 Herramientas de Diseño
+Adobe Photoshop • Adobe Illustrator • Adobe Premiere • After Effects • Affinity Designer
+
+---
+
+### 📊 Estadísticas GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fcivanzx&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcivanzx&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Contacto
-- 📧 Email: tuemail@email.com
-- 📱 Instagram: @tuusuario
+
+📸 Instagram: **@ivanc_f1**  
+📧 Correo: **20241d006@khipu.edu.pe**
 
 ---
 
-⭐ Gracias por visitar mi perfil
+<p align="center">
+⭐ IF Croma Studio — Diseño & Desarrollo Creativo
+</p>
