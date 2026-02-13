@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/REEMPLAZAR_LOGO.png" width="200"/>
-</p>
+
 
 <h1 align="center"> IF Croma Studio 🎨💻</h1>
 <h3 align="center">Programador UI/UX | Diseñador Digital | Desarrollo Creativo</h3>
