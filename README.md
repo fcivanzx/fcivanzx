@@ -1,49 +1,61 @@
+
 <p align="center">
   <img src="https://i.imgur.com/REEMPLAZAR_LOGO.png" width="200"/>
 </p>
 
-<h1 align="center"> IF Croma Studio 🎨💻</h1>
+<h1 align="center">IF Croma Studio 🎨💻</h1>
 <h3 align="center">Programador UI/UX | Diseñador Digital | Desarrollo Creativo</h3>
 
 ---
 
-### 🚀 Sobre mí
+## 🚀 Sobre mí
+
 Soy desarrollador y diseñador enfocado en crear experiencias visuales modernas.  
 Combino programación + diseño UI/UX para construir proyectos atractivos y funcionales.
 
 ✔ Desarrollo web y móvil  
-✔ Diseño gráfico profesional  
 ✔ Interfaces modernas  
-✔ Branding y contenido visual  
+✔ Branding visual  
+✔ Diseño gráfico profesional  
 
 ---
 
-### 🛠️ Tecnologías de Programación
+## 🛠️ Tecnologías de Programación
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,cs,kotlin,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart,cs,kotlin,bootstrap,mysql" />
 </p>
 
 **Lenguajes:**  
-HTML • CSS • JavaScript • Python • Dart • C# • Kotlin  
+HTML • CSS • JavaScript • PHP • Python • Dart • C# • Kotlin  
 
 **Bases de datos:**  
 MySQL • SQL Server • Workbench  
 
 ---
 
-### 🎨 Herramientas de Diseño
+## 🎨 Herramientas de diseño
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="60"/>
+</p>
+
 Adobe Photoshop • Adobe Illustrator • Adobe Premiere • After Effects • Affinity Designer
 
 ---
 
-### 📊 Estadísticas GitHub
+## 📊 Estadísticas GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fcivanzx&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Contacto
+## 📫 Contacto
 
 📸 Instagram: **@ivanc_f1**  
 📧 Correo: **20241d006@khipu.edu.pe**
@@ -51,5 +63,5 @@ Adobe Photoshop • Adobe Illustrator • Adobe Premiere • After Effects • A
 ---
 
 <p align="center">
-⭐ IF Croma Studio — Diseño & Desarrollo Creativo
+⭐ Croma Studio — Diseño & Desarrollo Creativo
 </p>
