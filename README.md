@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/REEMPLAZAR_LOGO.png" width="200"/>
 </p>
 
-<h1 align="center">Croma Studio 🎨💻</h1>
+<h1 align="center"> IF Croma Studio 🎨💻</h1>
 <h3 align="center">Programador UI/UX | Diseñador Digital | Desarrollo Creativo</h3>
 
 ---
@@ -59,5 +59,5 @@ Adobe Photoshop • Adobe Illustrator • Adobe Premiere • After Effects • A
 ---
 
 <p align="center">
-⭐ Croma Studio — Diseño & Desarrollo Creativo
+⭐  IF Croma Studio — Diseño & Desarrollo Creativo
 </p>>
