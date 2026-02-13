@@ -1,6 +1,6 @@
 
 
-<h1 align="center">  Croma Studio 🎨💻</h1>
+<h1 align="center">Croma Studio 🎨💻</h1>
 <h3 align="center">Programador UI/UX | Diseñador Digital | Desarrollo Creativo</h3>
 
 ---
