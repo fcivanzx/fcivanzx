@@ -1,9 +1,8 @@
-
 <p align="center">
   <img src="https://i.imgur.com/REEMPLAZAR_LOGO.png" width="200"/>
 </p>
 
-<h1 align="center">IF Croma Studio 🎨💻</h1>
+<h1 align="center">Croma Studio 🎨💻</h1>
 <h3 align="center">Programador UI/UX | Diseñador Digital | Desarrollo Creativo</h3>
 
 ---
@@ -23,24 +22,21 @@ Combino programación + diseño UI/UX para construir proyectos atractivos y func
 ## 🛠️ Tecnologías de Programación
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart,cs,kotlin,bootstrap,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart,cs,kotlin,bootstrap,mysql" />
 </p>
 
 **Lenguajes:**  
 HTML • CSS • JavaScript • PHP • Python • Dart • C# • Kotlin  
 
 **Bases de datos:**  
-MySQL • SQL Server • Workbench  
+MySQL • SQL Server • Workbench
 
 ---
 
 ## 🎨 Herramientas de diseño
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="60"/>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere" />
 </p>
 
 Adobe Photoshop • Adobe Illustrator • Adobe Premiere • After Effects • Affinity Designer
@@ -50,7 +46,7 @@ Adobe Photoshop • Adobe Illustrator • Adobe Premiere • After Effects • A
 ## 📊 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fcivanzx&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=fcivanzx&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -64,4 +60,4 @@ Adobe Photoshop • Adobe Illustrator • Adobe Premiere • After Effects • A
 
 <p align="center">
 ⭐ Croma Studio — Diseño & Desarrollo Creativo
-</p>
+</p>>
